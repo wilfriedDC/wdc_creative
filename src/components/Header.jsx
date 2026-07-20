@@ -2,7 +2,7 @@ import { Link, useLocation } from 'react-router';
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import logo from '../assets/wdc.png'
-// Remplacez vos imports actuels par celui-ci
+
 import { motion, AnimatePresence } from "framer-motion"
 
 
